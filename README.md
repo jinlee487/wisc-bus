@@ -31,7 +31,7 @@
 
 
 # LANGUAGE
-- `PYTHON`
+- `PYTHON` - `JUPYTER NOTEBOOK`
 
 
 # FINAL 
